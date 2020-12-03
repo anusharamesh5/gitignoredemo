@@ -1,0 +1,8 @@
+#ignore the build folder in root directory
+build/
+#ignore the sub-directory logs files
+test-runs/logs/
+#ignore environment files
+*.env
+#ignore csv files
+*.csv
